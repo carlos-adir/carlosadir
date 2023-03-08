@@ -1,18 +1,18 @@
 # change the followings to match your Github username and repo name
-baseurl: "/tailpages" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+baseurl: "/carlosadir" # the name of your github repo
+url: "https://carlos-adir.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Carlos Adir Personal Website"
+description: This is the website for Carlos Adir
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author: Carlos Adir
+author-bio: Mechanical Engineer  # change to false to hide
+author-image: carlossquare.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
@@ -26,18 +26,18 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: False
+facebook: False
+instagram: https://www.instagram.com/carlos.adir.leite
+github: https://github.com/carlos-adir
+linkedin: https://www.linkedin.com/in/carlos-adir/
 medium: false
 google-scholar: false
-email: false
+email: carlos.adir.leite@gmail.com
 
 # footer information
-footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg: False # "Powered by Tailpages"
+footer-msg-link: False # https://github.com/harrywang/tailpages
 
 # google analytics
 google-analytics: G-WCRC1TC2V5
