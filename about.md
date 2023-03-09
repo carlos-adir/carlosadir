@@ -9,7 +9,7 @@ permalink: about
 ## Profile Image
 
 The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/carlossquare.jpg">
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/carlossquare.png">
 
 ## References
 

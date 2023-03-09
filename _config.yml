@@ -12,16 +12,18 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Carlos Adir
 author-bio: Mechanical Engineer  # change to false to hide
-author-image: carlossquare.jpg  # file must be in the /assets/img/ folder
+author-image: carlossquare.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
 
 nav-menu:
+- text: Resume
+  permalink: resume
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
+- text: Portfolio
+  permalink: portfolio
 - text: Blog
   permalink: blog
 
@@ -31,9 +33,9 @@ facebook: False
 instagram: https://www.instagram.com/carlos.adir.leite
 github: https://github.com/carlos-adir
 linkedin: https://www.linkedin.com/in/carlos-adir/
-medium: false
-google-scholar: false
-email: carlos.adir.leite@gmail.com
+medium: False
+google-scholar: False
+email: False # carlos.adir.leite@gmail.com
 
 # footer information
 footer-msg: False # "Powered by Tailpages"
